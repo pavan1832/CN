@@ -74,6 +74,21 @@ Vertex 	 Distance from Source
 2		-2
 3		8
 4		5
+Enter the number of Vertices : ^[[D    5
+Enter the Weight Matrix of Graph
+0 6 0 7 0
+0 0  5 8 -4
+0 0 0 0 0 
+0 0 -3 0 9 
+2 0 0 0 0
+Enter the Source Vertex : 1
+Vertex 	 Distance from Source
+1		0
+2		6
+3		4
+4		7
+5		2
+
 //output(with negative cycle)
 Enter the number of Vertices : 3
 Enter the Weight Matrix of Graph
